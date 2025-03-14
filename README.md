@@ -4,7 +4,7 @@
 
 <p align="center"> @Code By Ryan</p>
 
-![Image web]
+![Image web DE CARROS]
 
 <p align="center">Este projeto é uma aplicação web animada desenvolvida com HTML, CSS e JavaScript. Ele demonstra como criar interfaces dinâmicas e interativas utilizando animações CSS e manipulação do DOM com JavaScript.</p>
 
